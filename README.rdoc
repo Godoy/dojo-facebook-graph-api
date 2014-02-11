@@ -2,7 +2,7 @@
 == Getting Started
 
 1. Crie um novo app no facebook
-![alt tag](https://raw.github.com/adrianogodoy/dojo-facebook-graph-api/master/public/passo1.png)
+![alt tag](https://raw.github.com/adrianogodoy/dojo-facebook-graph-api/master/public/passo01.png)
        <tt>rails new myapp</tt> (where <tt>myapp</tt> is the application name)
 
 2. Change directory to <tt>myapp</tt> and start the web server:
