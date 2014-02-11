@@ -1,1 +1,3 @@
 Saiba mais na Wiki.
+
+![](https://raw.github.com/adrianogodoy/dojo-facebook-graph-api/master/public/screenshots/Screenshot 2014-02-11 16.01.34.png)
